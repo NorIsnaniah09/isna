@@ -1,0 +1,2 @@
+# isna
+tugas pbo2
